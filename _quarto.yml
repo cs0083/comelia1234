@@ -9,13 +9,14 @@ website:
         text: "About Me"
       - href: cv.qmd
         text: "CV"
-      - href: blog.qmd
+      - href: blog.html
         text: "Reading"
 
 format:
   html:
     theme: minty
     css: styles.css
+
 
 
 
