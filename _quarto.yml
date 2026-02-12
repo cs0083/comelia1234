@@ -10,13 +10,11 @@ website:
       - href: cv.qmd
         text: "CV"
       - href: blog.html
-        text: "Reading"
+        text: "Reading" 
+        
+
 
 format:
   html:
     theme: minty
     css: styles.css
-
-
-
-
