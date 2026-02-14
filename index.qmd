@@ -1,0 +1,34 @@
+---
+title: "About Me"
+---
+
+::: {style="text-align: center;"}
+<img src="Chicago.jpg" width="250" style="border-radius: 50%; object-fit: cover;"/>
+:::
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center;"}
+
+<div style="background-color:#9fb89f; color:white; padding:12px; border-radius:8px; width:200px; margin:20px auto; font-size:1.1em; font-weight:600;">
+<a href="https://www.linkedin.com/in/comelia-soltanirad"
+target="_blank"
+style="color:white; text-decoration:none;">
+LinkedIn
+</a>
+</div>
+
+:::
+
+
+------------------------------------------------------------------------
+
+Hi! My name is Comelia Soltanirad and I am currently pursuing a Master’s degree in Biostatistics at Case Western Reserve University. I completed my undergraduate degree in Chemistry at The Ohio State University, where I gained hands-on experience in both academic and industrial lab settings. I’ve worked with analytical instruments like Karl Fischer titrators and differential scanning calorimeters, and contributed to cancer research at the OSU Comprehensive Cancer Center, focusing on tissue culture, staining techniques, and protein extraction.
+
+Through my graduate studies, I have developed strong quantitative and computational skills, including statistical modeling, regression analysis, survival analysis, and machine learning methods. I regularly work with R, SAS, and Python to build predictive models, perform data wrangling, and generate reproducible reports for public health data.
+
+I have a strong interest in the pharmaceutical and biotechnology industries and I am passionate about using data-driven approaches to translate scientific problems into insight that improves health outcomes.
+
+If you’d like to connect, feel free to reach me at **css140\@case.edu**, or connect with me on LinkedIn.
