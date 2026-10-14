@@ -10,7 +10,7 @@ Outside of my schooling, I am very interested in fashion and see it as art! I lo
 ```{r}
 #| echo: false
 #| layout-ncol: 3
-#| fig-cap: ["Before making the dress", "In the middle of the process", "Finished project!"]
+#| fig-cap: ["before making the dress", "in the middle of the process", "finished project!"]
 
 knitr::include_graphics(c("dress1.jpg", "dress2.jpeg", "dress3.jpg"))
 ```
