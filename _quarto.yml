@@ -11,6 +11,8 @@ website:
         text: "CV"
       - href: Interests.qmd
         text: "Interests"
+      - href: Research.qmd
+        text: "Research"
 
 format:
   html:
