@@ -9,8 +9,6 @@ website:
         text: "About Me"
       - href: cv.qmd
         text: "CV"
-      - href: blog.qmd
-        text: "Reading"
       - href: Interests.qmd
         text: "Interests"
 
