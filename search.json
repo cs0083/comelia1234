@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Style_backup.html",
+    "href": "Style_backup.html",
+    "title": "Style",
+    "section": "",
+    "text": "/* Sage Green Aesthetic */\nbody { background-color: #f6f9f6; /* pale sage */ font-family: “Helvetica”, sans-serif; }\n.navbar { background-color: #9fb89f !important; /* sage green */ }\nh1, h2, h3 { color: #8aa88a; /* softer sage for headings */ }\n.profile-pic { width: 250px; height: 250px; border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0,0,0,0.15); }\n.centered { text-align: center; }"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Interests",
+    "section": "",
+    "text": "Outside of my schooling, I am very interested in fashion and see it as art! I love how personal style allows people to express themselves through clothing, colors, and textures. I especially enjoy thrifting and upcycling clothes, finding unique pieces, and giving them a new life through my own creative ideas. I have worked on several personal projects that allow me to experiment with different styles and further explore fashion."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "LinkedIn \n\n\n\nHi! My name is Comelia Soltanirad and I recently graduated from Case Western Reserve University with a Master’s degree in Epidemiology and Biostatistics, after earning my undergraduate degree in Chemistry from The Ohio State University. My background has given me experience working across science, research, and data. During my graduate studies, I developed strong skills in data analysis, statistical modeling, and programming, using R, SAS, and Python to work with real-world datasets, build models, and communicate results. I’m particularly interested in data analytics, data science, and informatics, and I enjoy using data to understand problems, identify patterns, and support better decision-making. I also have experience working with machine learning and AI, and I’m interested in opportunities where I can combine my quantitative background with newer technologies. I’m currently exploring opportunities in data analytics, data science, risk analysis, and related fields where I can continue learning and apply my technical and problem-solving skills.\nIf you’d like to connect, feel free to reach me at comelias1617@gmail.com, or connect with me on LinkedIn."
+  }
+]
