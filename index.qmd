@@ -25,10 +25,8 @@ LinkedIn
 
 ------------------------------------------------------------------------
 
-Hi! My name is Comelia Soltanirad and I am currently pursuing a Master’s degree in Biostatistics at Case Western Reserve University. I completed my undergraduate degree in Chemistry at The Ohio State University, where I gained hands-on experience in both academic and industrial lab settings. I’ve worked with analytical instruments like Karl Fischer titrators and differential scanning calorimeters, and contributed to cancer research at the OSU Comprehensive Cancer Center, focusing on tissue culture, staining techniques, and protein extraction.
+Hi! My name is Comelia Soltanirad and I recently graduated from Case Western Reserve University with a Master’s degree in Epidemiology and Biostatistics, after earning my undergraduate degree in Chemistry from The Ohio State University.
+My background has given me experience working across science, research, and data. During my graduate studies, I developed strong skills in data analysis, statistical modeling, and programming, using R, SAS, and Python to work with real-world datasets, build models, and communicate results.
+I’m particularly interested in data analytics, data science, and informatics, and I enjoy using data to understand problems, identify patterns, and support better decision-making. I also have experience working with machine learning and AI, and I’m interested in opportunities where I can combine my quantitative background with newer technologies. I’m currently exploring opportunities in data analytics, data science, risk analysis, and related fields where I can continue learning and apply my technical and problem-solving skills.
 
-Through my graduate studies, I have developed strong quantitative and computational skills, including statistical modeling, regression analysis, survival analysis, and machine learning methods. I regularly work with R, SAS, and Python to build predictive models, perform data wrangling, and generate reproducible reports for public health data.
-
-I have a strong interest in the pharmaceutical and biotechnology industries and I am passionate about using data-driven approaches to translate scientific problems into insight that improves health outcomes.
-
-If you’d like to connect, feel free to reach me at **css140\@case.edu**, or connect with me on LinkedIn.
+If you’d like to connect, feel free to reach me at **comelias1617@gmail.com**, or connect with me on LinkedIn.
