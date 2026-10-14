@@ -1,0 +1,17 @@
+---
+title: "Style"
+---
+
+/\* Sage Green Aesthetic \*/
+
+body { background-color: #f6f9f6; /\* pale sage \*/ font-family: "Helvetica", sans-serif; }
+
+.navbar { background-color: #9fb89f !important; /\* sage green \*/ }
+
+h1, h2, h3 { color: #8aa88a; /\* softer sage for headings \*/ }
+
+.profile-pic { width: 250px; height: 250px; border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0,0,0,0.15); }
+
+.centered { text-align: center; }
+
+------------------------------------------------------------------------
