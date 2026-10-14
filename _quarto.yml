@@ -9,10 +9,8 @@ website:
         text: "About Me"
       - href: cv.qmd
         text: "CV"
-      - href: blog.html
-        text: "Reading" 
-        
-
+      - href: blog.qmd
+        text: "Reading"
 
 format:
   html:
