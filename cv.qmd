@@ -2,13 +2,10 @@
 title: "CV"
 ---
 
-<div style="text-align:center;">
-  <iframe src="Comelia Soltanirad CV.pdf" 
-          width="100%" 
-          height="800px" 
-          style="border: none;">
-  </iframe>
-</div>
+<iframe src="Comelia_CV.pdf"
+        width="100%"
+        height="800px"
+        style="border:none;">
+</iframe>
 
 ---
-
