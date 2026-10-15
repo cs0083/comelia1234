@@ -9,10 +9,10 @@ website:
         text: "About Me"
       - href: cv.qmd
         text: "CV"
-      - href: Interests.qmd
-        text: "Interests"
       - href: Research.qmd
         text: "Research"
+      - href: Interests.qmd
+        text: "Interests"
 
 format:
   html:
